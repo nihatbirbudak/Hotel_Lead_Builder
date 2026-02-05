@@ -1,0 +1,34 @@
+[
+  {
+    "id": "test-1",
+    "adi": "Otel A",
+    "Sehir": "İstanbul",
+    "Ilce": "Fatih",
+    "belge_turu": "Basit Konaklama",
+    "adres": "Test Adres 1"
+  },
+  {
+    "id": "test-2",
+    "adi": "Otel B",
+    "Sehir": "Antalya",
+    "Ilce": "Muratpaşa",
+    "belge_turu": "Plaj işletmesi",
+    "adres": "Test Adres 2"
+  },
+  {
+    "id": "test-3",
+    "adi": "Otel C",
+    "Sehir": "İzmir",
+    "Ilce": "Alsancak",
+    "belge_turu": "Turizm işletmesi belgesi",
+    "adres": "Test Adres 3"
+  },
+  {
+    "id": "test-4",
+    "adi": "Otel D",
+    "Sehir": "Ankara",
+    "Ilce": "Çankaya",
+    "belge_turu": "Kısmi Turizm işletmesi belgesi",
+    "adres": "Test Adres 4"
+  }
+]

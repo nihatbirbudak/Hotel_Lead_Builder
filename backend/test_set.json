@@ -1,0 +1,142 @@
+[
+  {
+    "name": "NEW WAY",
+    "city": "KAYSERİ",
+    "district": "KOCASİNAN",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "32c6ec64-1100-42db-b1c9-8072e9a2b83b"
+  },
+  {
+    "name": "THEODOSIUS HOTEL",
+    "city": "İSTANBUL",
+    "district": "FATİH",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "54340223-4bf7-4b69-88a0-9f9f510f6b39"
+  },
+  {
+    "name": "COFFEE BRUTUS",
+    "city": "BURSA",
+    "district": "NİLÜFER",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "5bc7ac4b-c49f-45ca-85dc-870f144f292a"
+  },
+  {
+    "name": "MSA PANSİYON",
+    "city": "TRABZON",
+    "district": "ÇAYKARA",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "60a87a40-82a0-4dc8-8f1b-b8e0b7ff2f9d"
+  },
+  {
+    "name": "MORFİL 2",
+    "city": "İSTANBUL",
+    "district": "BEŞİKTAŞ",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "0692b5a2-1ef0-4cd4-94f9-aed1909ae2b8"
+  },
+  {
+    "name": "ADMİRAL OTELİ",
+    "city": "MERSİN",
+    "district": "ERDEMLİ",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "81a98d17-2ece-4194-a7e4-bd90235017be"
+  },
+  {
+    "name": "PEARL ISTANBUL HOUSE",
+    "city": "İSTANBUL",
+    "district": "FATİH",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "740f7cfe-017b-4459-8083-9f6304349c13"
+  },
+  {
+    "name": "ALEXİA RESORT & SPA HOTEL",
+    "city": "ANTALYA",
+    "district": "MANAVGAT",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "eb1636af-e137-4f94-b28c-0ddff311d73c"
+  },
+  {
+    "name": "İDA LYTHOS",
+    "city": "ÇANAKKALE",
+    "district": "AYVACIK",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "353533e3-1be2-4df9-9ac5-13129921d5ff"
+  },
+  {
+    "name": "MARRIOTT EXECUTIVE APARTMENTS İSTANBUL TEMA WORLD",
+    "city": "İSTANBUL",
+    "district": "KÜÇÜKÇEKMECE",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "67cc241c-7da8-40c5-9a37-e1b5f9d7e551"
+  },
+  {
+    "name": "GLOBAL EVENT COMPANY",
+    "city": "ANTALYA",
+    "district": "MURATPAŞA",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "65d6e0fa-6a7f-45c5-8f7c-7da94b2aeb2d"
+  },
+  {
+    "name": "ELAZIĞ FATİH ASLANLI PANSİYON",
+    "city": "ELAZIĞ",
+    "district": "MERKEZ",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "09fee1b8-bb35-4544-854f-ebad65df8b63"
+  },
+  {
+    "name": "OTEL LA BELLA BERGAMA",
+    "city": "İZMİR",
+    "district": "BERGAMA",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "543bf078-8612-489f-b1e7-0489568bacfe"
+  },
+  {
+    "name": "PATALYA THERMAL RESORT",
+    "city": "ANKARA",
+    "district": "KIZILCAHAMAM",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "792582a6-bfcb-421c-8085-ca5d4279b942"
+  },
+  {
+    "name": "SARAYKENT OTEL",
+    "city": "AKSARAY",
+    "district": "MERKEZ",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "e8dd56b7-63f0-4fc6-b297-479a23e50e24"
+  },
+  {
+    "name": "AŞK-I NARE CAVE",
+    "city": "NEVŞEHİR",
+    "district": "MERKEZ",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "d42ad9b6-8780-4a38-bdd3-81d8a018a26f"
+  },
+  {
+    "name": "KOLİBA",
+    "city": "ANKARA",
+    "district": "ÇANKAYA",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "35ff0f80-00ae-442b-8d2c-14a9cb1cbbbc"
+  },
+  {
+    "name": "KURT OTEL",
+    "city": "TRABZON",
+    "district": "ORTAHİSAR",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "b601466f-c740-4045-a928-72b68927b11b"
+  },
+  {
+    "name": "Skopea Marina",
+    "city": "MUĞLA",
+    "district": "FETHİYE",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "07b706d8-6b2c-43b8-bd26-d0e1cbfb713e"
+  },
+  {
+    "name": "SIX SENSES KOCATAŞ MANSIONS",
+    "city": "İSTANBUL",
+    "district": "SARIYER",
+    "type": "Turizm İşletmesi Belgesi",
+    "id": "71e07478-f8aa-46cd-ba67-eb4d30337be3"
+  }
+]

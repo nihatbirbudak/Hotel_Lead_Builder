@@ -1,0 +1,162 @@
+[
+  {
+    "name": "NEW WAY",
+    "city": "KAYSERİ",
+    "status": "FOUND",
+    "url": "http://www.newway.com.tr",
+    "score": 100,
+    "reason": "N/A"
+  },
+  {
+    "name": "THEODOSIUS HOTEL",
+    "city": "İSTANBUL",
+    "status": "FOUND",
+    "url": "https://www.theodosiushotel.com/",
+    "score": 100,
+    "reason": "N/A"
+  },
+  {
+    "name": "COFFEE BRUTUS",
+    "city": "BURSA",
+    "status": "FOUND",
+    "url": "http://www.coffeebrutus.com",
+    "score": 100,
+    "reason": "N/A"
+  },
+  {
+    "name": "MSA PANSİYON",
+    "city": "TRABZON",
+    "status": "FAILED",
+    "url": null,
+    "score": 0,
+    "reason": "domain_not_hotel"
+  },
+  {
+    "name": "MORFİL 2",
+    "city": "İSTANBUL",
+    "status": "FOUND",
+    "url": "http://2hotel.com",
+    "score": 95.0,
+    "reason": "N/A"
+  },
+  {
+    "name": "ADMİRAL OTELİ",
+    "city": "MERSİN",
+    "status": "FAILED",
+    "url": null,
+    "score": 0,
+    "reason": "domain_not_relevant"
+  },
+  {
+    "name": "PEARL ISTANBUL HOUSE",
+    "city": "İSTANBUL",
+    "status": "FOUND",
+    "url": "https://pearlhotelistanbul.com.tr/",
+    "score": 100,
+    "reason": "N/A"
+  },
+  {
+    "name": "ALEXİA RESORT & SPA HOTEL",
+    "city": "ANTALYA",
+    "status": "FAILED",
+    "url": null,
+    "score": 0,
+    "reason": "domain_not_relevant"
+  },
+  {
+    "name": "İDA LYTHOS",
+    "city": "ÇANAKKALE",
+    "status": "FAILED",
+    "url": null,
+    "score": 0,
+    "reason": "domain_not_relevant"
+  },
+  {
+    "name": "MARRIOTT EXECUTIVE APARTMENTS İSTANBUL TEMA WORLD",
+    "city": "İSTANBUL",
+    "status": "FAILED",
+    "url": null,
+    "score": 0,
+    "reason": "domain_not_relevant"
+  },
+  {
+    "name": "GLOBAL EVENT COMPANY",
+    "city": "ANTALYA",
+    "status": "FAILED",
+    "url": null,
+    "score": 0,
+    "reason": "domain_not_hotel"
+  },
+  {
+    "name": "ELAZIĞ FATİH ASLANLI PANSİYON",
+    "city": "ELAZIĞ",
+    "status": "FAILED",
+    "url": null,
+    "score": 0,
+    "reason": "domain_not_relevant"
+  },
+  {
+    "name": "OTEL LA BELLA BERGAMA",
+    "city": "İZMİR",
+    "status": "FOUND",
+    "url": "https://www.hotellabella.com.tr/",
+    "score": 100,
+    "reason": "N/A"
+  },
+  {
+    "name": "PATALYA THERMAL RESORT",
+    "city": "ANKARA",
+    "status": "FAILED",
+    "url": null,
+    "score": 0,
+    "reason": "domain_not_relevant"
+  },
+  {
+    "name": "SARAYKENT OTEL",
+    "city": "AKSARAY",
+    "status": "FAILED",
+    "url": null,
+    "score": 0,
+    "reason": "domain_not_relevant"
+  },
+  {
+    "name": "AŞK-I NARE CAVE",
+    "city": "NEVŞEHİR",
+    "status": "FOUND",
+    "url": "https://www.hotelask.com/",
+    "score": 95.0,
+    "reason": "N/A"
+  },
+  {
+    "name": "KOLİBA",
+    "city": "ANKARA",
+    "status": "FAILED",
+    "url": null,
+    "score": 0,
+    "reason": "domain_not_relevant"
+  },
+  {
+    "name": "KURT OTEL",
+    "city": "TRABZON",
+    "status": "FOUND",
+    "url": "https://www.kurt.biz/",
+    "score": 82.5,
+    "reason": "N/A"
+  },
+  {
+    "name": "Skopea Marina",
+    "city": "MUĞLA",
+    "status": "FOUND",
+    "url": "https://www.skopeamarina.com.tr/",
+    "score": 100,
+    "reason": "N/A"
+  },
+  {
+    "name": "SIX SENSES KOCATAŞ MANSIONS",
+    "city": "İSTANBUL",
+    "status": "FOUND",
+    "url": "http://www.sixsenseshotel.com/",
+    "score": 100,
+    "reason": "N/A"
+  }
+]
